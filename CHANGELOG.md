@@ -1,3 +1,8 @@
+## [2.8.0] 2025/01/20
+
+* Updates minimum iOS version to 12.0
+* Adds support for Swift Package Manager for compatibility with new projects
+
 ## [2.7.1] 2024/09/06
 
 * Fix resource bundles
